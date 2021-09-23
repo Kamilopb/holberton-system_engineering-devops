@@ -1,2 +1,2 @@
-#hola
-##desde septiembre se siente que viene diciiiiembre
+#!/bin/bash
+##bin ban diquidiquitown es lo que yo canto cuando bailo bailo bailo
